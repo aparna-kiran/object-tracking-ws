@@ -18,8 +18,8 @@
         <div>For guidance watch this video <a href="https://www.youtube.com/watch?v=0hGzGdRQeak&list=PL6NyNXuLviaoTJn4wKzsYD72dQK9SKMiq&index=5&t=296s" target="_blank">here</a></div>
         <h3><u>Ubuntu</u></h3>
         <div>Install Python using the following commands in the terminal</div>
-        <div style="padding-left:10px; background-color:#C0C0C0;">sudo apt update</div>
-        <div style="padding-left:10px; background-color:#C0C0C0;">sudo apt install python</div>
+        <div style="padding-left:20px;">sudo apt update</div>
+        <div style="padding-left:20px;">sudo apt install python</div>
         <div>For guidance watch this video <a href="https://www.youtube.com/watch?v=BDGm8xQTlJg&list=PL6NyNXuLviaoTJn4wKzsYD72dQK9SKMiq&index=3&t=111s" target="_blank">here</a></div><br>
         <h2><b>PyCharm Installation</b></h2>
         <div>Visit this website <a href="https://www.jetbrains.com/pycharm/" target="_blank">here</a> for downloading PyCharm</div>
