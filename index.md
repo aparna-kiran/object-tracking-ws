@@ -6,11 +6,11 @@
     <body>
         <h1>OBJECT TRACKING WORKSHOP</h1>
         <p>This is an online workshop conducted by IEEE Robotics and Automation Society Chapter, CET</p><hr>
-        <h2><u>INSTALLATIONS REQUIRED</u></h2>
+        <h2><u>Installations Required</u></h2>
         <p>For this workshop, we require Python interpreter and a Python Development Environment</p>
         <p>First we will install the Python 3.8.2 version, the latest version, and then we will install the PyCharm IDE</p>
         <h2>Python installation</h2>
-        <h3><u>Windows 64-bit system</u></h2>
+        <h3><u>Windows 64-bit system</u></h3>
         <div>Install Python from <a href="https://www.python.org/downloads/" target="_blank">here</a></div>
         <div>For guidance watch this video <a href="https://www.youtube.com/watch?v=d3AT9EGp4iw&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K&index=2" target="_blank">here</a></div>
         <h3><u>MacOS X</u></h3>
