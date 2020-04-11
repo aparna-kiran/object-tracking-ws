@@ -10,6 +10,7 @@
         <p>For this workshop, we require Python interpreter and a Python Development Environment</p>
         <p>First we will install the Python 3.8.2 version, the latest version, and then we will install the PyCharm IDE</p>
         <h2><b>Python installation</b></h2>
+        <p>While installing Python, DON'T forget to check the <b>ADD Python 3.8 to Path</b> box</p>
         <h3><u>Windows 64-bit system</u></h3>
         <div>Install Python from <a href="https://www.python.org/downloads/" target="_blank">here</a></div>
         <div>For guidance watch this video <a href="https://www.youtube.com/watch?v=d3AT9EGp4iw&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K&index=2" target="_blank">here</a></div>
