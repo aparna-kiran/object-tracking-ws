@@ -30,6 +30,9 @@
         <div>Watch <a href="https://www.youtube.com/watch?v=mDqxeCqVsOg&list=PL6NyNXuLviaoTJn4wKzsYD72dQK9SKMiq&index=6&t=359s" target="_blank">this</a> video for guidance </div>
         <h3><u>Ubuntu</u></h3>
         <div>Watch <a href="https://www.youtube.com/watch?v=cVROiVgR_qg&list=PL6NyNXuLviaoTJn4wKzsYD72dQK9SKMiq&index=4&t=0s" target="_blank">this </a>video for guidance</div>
+        <h2><b>OpenCV Installation</b></h2>
+        <div>To install OpenCV in PyCharm, watch this video <a href="https://www.youtube.com/watch?v=u6IncyEm080" target="_blank">here</a></div>
+        <p>Now you are ready to go!</p>
         
-    </body>
+   </body>
 </html>
